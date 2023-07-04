@@ -3,13 +3,15 @@ import Button from '@mui/material/Button';
 interface CommonButtonProps {
     children: React.ReactNode;
     disabled: boolean;
+    onClick: () => void;
 }
 
-const CommonButton: React.FC<CommonButtonProps> = ({ children, disabled }) => {
+const CommonButton: React.FC<CommonButtonProps> = ({ children, disabled, onClick }) => {
     return (
         <Button
             disabled={disabled}
             variant="contained"
+            onClick={onClick}
             sx={{
                 width: '100%',
                 maxWidth: '400px',
