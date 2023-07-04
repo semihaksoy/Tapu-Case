@@ -1,0 +1,36 @@
+{
+    "properties": [
+        {
+            "name": "Ocean View Apartments",
+            "address": "123 Beach Avenue, Miami, FL 33140",
+            "score": 4,
+            "distance": 2,
+            "price": 1000,
+            "photo": "https://thumbs.dreamstime.com/z/photo-was-taken-chorleywood-hertfordshire-england-uk-modern-mock-tudor-style-bungalow-property-clements-road-174761222.jpg"
+        },
+        {
+            "name": "Mountain Retreat Condos",
+            "address": "456 Hillside Drive, Denver, CO 80202",
+            "score": 5,
+            "distance": 6,
+            "price": 2000,
+            "photo": "https://thumbs.dreamstime.com/z/photo-was-taken-chorleywood-hertfordshire-england-uk-modern-mock-tudor-style-bungalow-property-clements-road-174761222.jpg"
+        },
+        {
+            "name": "City Central Lofts",
+            "address": "789 Main Street, New York, NY 10001",
+            "score": 3,
+            "distance": 1,
+            "price": 3000,
+            "photo": "https://thumbs.dreamstime.com/z/photo-was-taken-chorleywood-hertfordshire-england-uk-modern-mock-tudor-style-bungalow-property-clements-road-174761222.jpg"
+        },
+        {
+            "name": "Suburban Villas",
+            "address": "321 Quiet Lane, Portland, OR 97205",
+            "score": 4,
+            "distance": 8,
+            "price": 4000,
+            "photo": "https://thumbs.dreamstime.com/z/photo-was-taken-chorleywood-hertfordshire-england-uk-modern-mock-tudor-style-bungalow-property-clements-road-174761222.jpg"
+        }
+    ]
+}
