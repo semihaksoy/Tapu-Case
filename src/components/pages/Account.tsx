@@ -20,9 +20,9 @@ const Account: React.FC = () => {
 
     useEffect(() => {
         if (email.trim() === '' || password.trim() === '') {
-        setIsButtonDisabled(true);
+            setIsButtonDisabled(true);
         } else {
-        setIsButtonDisabled(false);
+            setIsButtonDisabled(false);
         }
     }, [email, password, locale]);
 
